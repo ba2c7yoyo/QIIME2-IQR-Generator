@@ -23,8 +23,9 @@ ObserveValue (%)?
 ```
 - Input file - level-6.csv
 
-    ![Input file](https://user-images.githubusercontent.com/81002817/179383739-ac797212-2376-4688-b992-cdb32e53ede1.png "Input file")
+![Input file](https://user-images.githubusercontent.com/81002817/179383739-ac797212-2376-4688-b992-cdb32e53ede1.png "Input file")
 
 - Output figures
-    ![image](https://github.com/ba2c7yoyo/NTGS/assets/81002817/59b907a1-046d-44f9-91f3-4e8cde459cee)
+
+![image](https://github.com/ba2c7yoyo/NTGS/assets/81002817/59b907a1-046d-44f9-91f3-4e8cde459cee)
 
